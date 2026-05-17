@@ -1,4 +1,4 @@
-# Pure JavaScript Accordion
+ Pure JavaScript Accordion
 
 A lightweight and responsive accordion built using **HTML, CSS, and Vanilla JavaScript** — no Bootstrap, no external libraries.
 
