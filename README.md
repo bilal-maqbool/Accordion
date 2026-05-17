@@ -2,7 +2,7 @@
 
 A lightweight and responsive accordion built using **HTML, CSS, and Vanilla JavaScript** — no Bootstrap, no external libraries.
 
-#🔥 Features
+🔥 Features
 
 - Pure JavaScript (No Bootstrap / jQuery)
 - Smooth open & close animation
